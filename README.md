@@ -2,6 +2,8 @@
 
 ## Introduction
 
+A Tetris game built with Webgl.
+
 ## Installation
 
 1. Make sure you have **npm** installed on your machine.
@@ -11,7 +13,9 @@
 
 ## Features
 
-Implemented all the features described in assignment instruction including additional logics such as press `q` to quit, `r` to restart.
+![demo img](./demo.png)
+
+Contains 7 types of shapes, press `q` to quit, `r` to restart.
 
 Added a score system, Removing one row will increase the score by **10**, restart the game will reset the score to 0.
 
